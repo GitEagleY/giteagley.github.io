@@ -17,7 +17,7 @@ export const faqs = [
   },
   {
     question: "Do you have experience with team collaboration?",
-    answer: "Yes, I've worked in both small startups and larger teams. I'm experienced with code reviews, pair programming, and contributing to technical documentation. Communication and collaboration are key strengths."
+    answer: "Yes, I'm experienced with code reviews, pair programming, and contributing to technical documentation. Communication and collaboration are key strengths."
   }
 ];
 
