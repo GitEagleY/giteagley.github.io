@@ -148,7 +148,7 @@ export default function Home() {
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <a 
-              href="mailto:contact@example.com"
+              href="mailto:ch0tati@proton.me"
               aria-label="Send me an email"
               className="bg-white text-navy-900 hover:bg-gray-100 px-8 py-3 rounded-lg font-medium transition-colors inline-flex items-center gap-2"
             >
