@@ -1,7 +1,12 @@
+import { useEffect } from 'react';
 import ProjectCard from '../components/ProjectCard';
 import projects from '../data/projects';
 
 export default function Projects() {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []); // Runs once when component mounts
+
   return (
     <div>
       {/* PAGE HEADER */}
@@ -14,7 +19,6 @@ export default function Projects() {
           </p>
         </div>
       </section>
-
       {/* PROJECTS GRID */}
       <section className="max-w-7xl mx-auto px-6 pb-20">
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
