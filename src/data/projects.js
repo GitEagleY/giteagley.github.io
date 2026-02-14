@@ -253,7 +253,7 @@ export const projects = [
     tags: ['React', 'Node.js', 'Express', 'MongoDB', 'JWT', 'Material-UI'],
     gradient: 'from-blue-100 to-indigo-100',
     thumbnail: null, // 'in progress' / '/images/social-network-thumb.png'
-    showcaseGif: '/public/projects/SocialNetwork.gif', // '/gifs/social-network-demo.gif' - SocialNetwork.gif
+    showcaseGif: '/projects/SocialNetwork.gif', // '/gifs/social-network-demo.gif' - SocialNetwork.gif
     githubUrl: 'https://github.com/GitEagleY/MERN_SocialNetwork',
     timeline: 'Completed',
     role: 'Full-stack Developer',
@@ -340,7 +340,7 @@ export const projects = [
     tags: ['React', 'Supabase', 'JavaScript'],
     gradient: 'from-green-100 to-teal-100',
     thumbnail: null, // 'in progress' / '/images/factflow-thumb.png'
-    showcaseGif: '/public/projects/Facts.gif', // '/gifs/factflow-demo.gif' - Facts.gif
+    showcaseGif: '/projects/Facts.gif', // '/gifs/factflow-demo.gif' - Facts.gif
     githubUrl: 'https://github.com/GitEagleY/LearnSomethingNew',
     timeline: 'Completed',
     role: 'Full-stack Developer',
@@ -395,7 +395,7 @@ export const projects = [
     tags: ['Django', 'SQLite', 'Tailwind CSS', 'Django Templates'],
     gradient: 'from-purple-100 to-pink-100',
     thumbnail: null, // 'in progress' / '/images/event-management-thumb.png'
-    showcaseGif: '/public/projects/EventManagementSystem.gif', // '/gifs/event-management-demo.gif' - EventManagementSystem.gif
+    showcaseGif: '/projects/EventManagementSystem.gif', // '/gifs/event-management-demo.gif' - EventManagementSystem.gif
     githubUrl: 'https://github.com/GitEagleY/Event-Management-System',
     timeline: 'Completed',
     role: 'Full-stack Developer',

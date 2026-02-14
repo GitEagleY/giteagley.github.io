@@ -34,7 +34,7 @@ export default function Home() {
                 </svg>
               </a>
               <a 
-                href="/public/Oleksandr_Ilchenko_Python_Developer.pdf"
+                href="/Oleksandr_Ilchenko_Python_Developer.pdf"
                 download="Oleksandr_Ilchenko_Python_Developer.pdf"
                 className="border-2 border-navy-900 text-navy-900 hover:bg-navy-50 px-8 py-3 rounded-lg font-medium transition-colors inline-flex items-center gap-2"
               >
