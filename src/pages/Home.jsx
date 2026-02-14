@@ -25,7 +25,7 @@ export default function Home() {
             </p>
             <div className="flex flex-wrap gap-4">
               <Link 
-                href="/projects" 
+                to="/projects" 
                 className="bg-navy-900 hover:bg-navy-700 text-white px-8 py-3 rounded-lg font-medium transition-colors inline-flex items-center gap-2"
               >
                 View Projects
